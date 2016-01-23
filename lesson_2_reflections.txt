@@ -1,0 +1,7 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+To indicate that I want to use git on that particular project. No initialization, no git.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It stores the temporary files you want to set for commit. It's generally a place where you can decide again for good to commit or not to commit.
