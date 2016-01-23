@@ -13,3 +13,6 @@ test stagesvsrepo, workingfilevsstaged
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 Not sure. It keeps separate track development clear of the master development.
+
+How do the diagrams help you visualize the branch structure?
+It helps to see the branch tracks clearer especially on which particular commit it veered off.
