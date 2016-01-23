@@ -16,3 +16,7 @@ Not sure. It keeps separate track development clear of the master development.
 
 How do the diagrams help you visualize the branch structure?
 It helps to see the branch tracks clearer especially on which particular commit it veered off.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+All the codes worked on separately will be merged onto one master track. To visualize the path of commits branch/master wise.
