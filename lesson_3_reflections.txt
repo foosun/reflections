@@ -13,4 +13,9 @@ To cross check as a reference and for git to have reference for potential merges
 How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 Harder to keep track without using Git or Github
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+Going branch affords one to be able to make changes that is not afforded on the master branch. Branch-ing allows one to experiment endlessly while still preserving the master file if everything goes wrong as the core.
+
+
+
 
