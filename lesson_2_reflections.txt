@@ -20,3 +20,7 @@ It helps to see the branch tracks clearer especially on which particular commit 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 All the codes worked on separately will be merged onto one master track. To visualize the path of commits branch/master wise.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Automatic - You don't have to worry about merging perimeters while remaining in the dark on what actually merges is disquieting
+Manually - You get to pick and choose what merges but it's a tedious process as you would to need to confer with the author continously 
